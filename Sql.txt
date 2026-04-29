@@ -1,0 +1,40 @@
+Attributes Ad Entities
+1. Personal Details 
+   person_id
+   name
+   d-o-b
+   Gender 
+   Nationality
+
+2. Documents
+   document_id
+   ctz.no 
+   issue_date
+   person_id
+
+3. Experience
+   company_name
+   job_position
+   start_date
+   end_date
+   person_id
+
+4. Contact details 
+   contact_id
+   phone_no
+   email
+   person_id
+
+5. Address
+   address 
+   district
+   country
+   street_no
+
+6. Qualification
+   Degree
+   college_name
+   year_of_completion
+   grade
+
+   
